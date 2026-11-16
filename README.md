@@ -131,16 +131,16 @@ O sistema expõe rotas RESTful para gerenciamento de espaços, membros, reservas
 ## 📋 Documentação e Gestão
 
 * **Documento Técnico (Google Docs):** [Link para o documento do grupo](#)
-* **Quadro Kanban:** [Link para o Kanban do repositório](#)
+* **Quadro Kanban:** [Link para o Kanban do repositório](https://github.com/users/RyanSS27/projects/1)
 
 ---
 
 ## 👥 Integrantes e Funções
 
-- **[Integrante 1]**: Desenvolvimento da camada `Models` (`Espaco`, `Mesa`, `SalaReuniao`, `Auditorio`, `Membro`, `Reserva` e `excecoes.py`) com herança, composição e encapsulamento, além da redação das seções de Regras de Negócio e Decisões de POO na documentação.
-- **[Integrante 2]**: Implementação da camada `Data` (`Repositorio` e `RepositorioJson`), garantindo a persistência dos dados em arquivos `.json`, além da documentação da arquitetura em camadas.
-- **[Integrante 3]**: Criação da camada `Controllers` (`espaco_controller.py`, `membro_controller.py` e `reserva_controller.py`), aplicando polimorfismo sem condicionais de tipo e regras de faturamento, além de documentar a lógica dos controladores.
-- **[Integrante 4]**: Construção da camada `Routes` (`espaco_routes.py`, `membro_routes.py`, `reserva_routes.py` e `schemas.py`), validação com Pydantic e tradução de exceções para códigos HTTP, além do preenchimento das tabelas de rotas e erros no documento.
+- **Jonathan**: Desenvolvimento da camada `Models` (`Espaco`, `Mesa`, `SalaReuniao`, `Auditorio`, `Membro`, `Reserva` e `excecoes.py`) com herança, composição e encapsulamento, além da redação das seções de Regras de Negócio e Decisões de POO na documentação.
+- **Kauan**: Implementação da camada `Data` (`Repositorio` e `RepositorioJson`), garantindo a persistência dos dados em arquivos `.json`, além da documentação da arquitetura em camadas.
+- **Marcos**: Criação da camada `Controllers` (`espaco_controller.py`, `membro_controller.py` e `reserva_controller.py`), aplicando polimorfismo sem condicionais de tipo e regras de faturamento, além de documentar a lógica dos controladores.
+- **Giovane**: Construção da camada `Routes` (`espaco_routes.py`, `membro_routes.py`, `reserva_routes.py` e `schemas.py`), validação com Pydantic e tradução de exceções para códigos HTTP, além do preenchimento das tabelas de rotas e erros no documento.
 - **Ryan**: Desenvolvimento dos testes automatizados com `pytest` (`tests/test_regras.py`), gestão do Kanban no GitHub, consolidação do diagrama de classes e estruturação final da documentação (padrão Fatec e Uso de IA).
 
 ---
