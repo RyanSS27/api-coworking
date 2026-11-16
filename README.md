@@ -38,13 +38,13 @@ Para executar a API localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/RyanSS27/api-coworking
    ```
 
 2. **Acesse a pasta da API:**
    Entre no diretório onde o código-fonte da aplicação está localizado:
    ```bash
-   cd <NOME_DO_REPOSITORIO>/api-coworking
+   cd [...]/api-coworking/api-coworking
    ```
 
 3. **Crie e ative um ambiente virtual (recomendado):**
