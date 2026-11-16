@@ -130,7 +130,7 @@ O sistema expõe rotas RESTful para gerenciamento de espaços, membros, reservas
 
 ## 📋 Documentação e Gestão
 
-* **Documento Técnico (Google Docs):** [Link para o documento do grupo](#)
+* **Documento Técnico (Google Docs):** [Link para o documento do grupo](https://docs.google.com/document/d/174Dh3ofqCmjo5GncYgkgf_-YYds1dLaILgHLIkREvmA/edit?usp=sharing)
 * **Quadro Kanban:** [Link para o Kanban do repositório](https://github.com/users/RyanSS27/projects/1)
 
 ---
